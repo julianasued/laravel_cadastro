@@ -45,7 +45,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ### ✅ Autor
 
-Feito com por Juliana Sued 👋🏽 Entre em contato!
+Feito por Juliana Sued 👋🏽 Entre em contato!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Juliana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juliana-sued-896b89206/)](https://www.linkedin.com/in/juliana-sued-896b89206/) 
 [![Gmail Badge](https://img.shields.io/badge/-julianasuedcc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:julianasuedcc@gmail.com)](mailto:julianasuedcc@gmail.com)
