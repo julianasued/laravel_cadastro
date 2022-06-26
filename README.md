@@ -1,7 +1,7 @@
-# CRUD EM LARAVEL
+# CADASTRO EM LARAVEL
 
 ##  Cadastro de usuários com preenchimento automático de endereço.
-O sistema a seguir, consiste em um formulário com informações do usuário. É possível, Cadastrar e Editar o usuário com um preenchimento automático de endereço, facilitando o preenchimento, permite também excluir o usuário do sistema, assim como, por um botão informar se é um usuário ATIVO ou INATIVO e se o status consta como PAGO ou PENDENTE.
+O sistema a seguir consiste em um formulário com informações do usuário. É possível Cadastrar e Editar o usuário com um preenchimento automático de endereço, facilitando o preenchimento, permite também excluir o usuário do sistema, assim como, por um botão informar se é um usuário ATIVO ou INATIVO e se o status consta como PAGO ou PENDENTE.
 
 ### ✅ Features
 
@@ -32,7 +32,7 @@ $ php artisan migrate
 # Execute a aplicação em modo de desenvolvimento
 $ php artisan serve --host=[IP] --port=[port]
 
-# Para o servidor inciar acesse: <http://[ip]:[port]/pessoas>
+# Para acessar o sistema acesse: <http://[ip]:[port]/pessoas>
 
 ### 🛠 Tecnologias
 
