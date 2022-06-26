@@ -15,14 +15,19 @@ O sistema a seguir consiste em um formulário com informações do usuário. É 
 
 ### ✅ Demonstração da aplicação
 Os dados a seguir foram gerados no site [4Devs](https://www.4devs.com.br/)
+<br>
 - CADASTRAR:
 ![criarcadastro](https://user-images.githubusercontent.com/68984567/175822342-557f26a3-464b-468c-b351-2f4f2d44a450.gif)
+<br>
 - VISUALIZAR:
 ![visualizar](https://user-images.githubusercontent.com/68984567/175822352-c7196396-a8d7-40ab-97fc-e2c71c1c2915.gif)
+<br>
 - EDITAR:
 ![editar](https://user-images.githubusercontent.com/68984567/175822366-5c7b348b-2300-4afc-aed6-5c5e585e5e10.gif)
+<br>
 - EXCLUIR:
 ![excluir](https://user-images.githubusercontent.com/68984567/175822377-191cd794-666a-4bf2-b216-098fd7df8cd5.gif)
+<br>
 - FUNCIONAMENTO DOS BOTÕES:
 ![funcionamentobotoes](https://user-images.githubusercontent.com/68984567/175822363-47ab4396-6f3d-4bd4-8236-e3adb62b78d8.gif)
 
